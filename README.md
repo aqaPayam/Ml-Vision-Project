@@ -1,9 +1,9 @@
 
 # Computer Vision Project
 
-#### Introduction to Machine Learning Course | Instructor: Dr. Fatemeh Mirsalehi
+#### Introduction to Machine Learning Course 
 
-<font color='cyan'>Payam Taebi</font> - <font color='cyan'>400104867</font>
+<font color='cyan'>Payam Taebi</font> 
 
 ---
 
